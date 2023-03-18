@@ -1,4 +1,4 @@
-# X Mandamentos (falíveis) para os tempos modernos:
+# X "Mandamentos" para os tempos modernos
 
 Sugestões (empíricas) para usufruir o melhor da Internet.
 - 1. Não ofenda o próximo. -> Somos todos irmãos.
