@@ -10,7 +10,7 @@ Exemplos:
 
 - Uma nova I.A. irá elaborar relatórios ou atender de forma automatizada -> Como treinar as pessoas que efetuavam este trabalho para novas atividades.
 - Um sistema de veículos autônomo irá substituir os motoristas ->  Como treinar as pessoas que efetuavam este trabalho para novas atividades.
-- Você está se aprimorando para entender esta nova tecnologia. Você esta atuando como um **"motor de inovação"** para sua comunidade, apresentando as novas tecnologias, mostrando como utilizar, como aprender, seus benefícios. 
+- Você está se aprimorando para entender esta nova tecnologia. Você esta atuando como um **"motor de inovação"** para sua comunidade?, apresentando as novas tecnologias?, mostrando como utilizar as mesmas?, como as pessoas podem obter benefício pela utilizacão destas tecnologias, suas armadilhas.
 - etc, etc. (TODO: Pensar mais exemplos)
 
 
