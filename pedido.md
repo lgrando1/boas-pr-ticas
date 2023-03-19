@@ -2,7 +2,7 @@ A tecnologia é maravilhosa, mas temos que pensar em seus efeitos[<sup>1<sup>](h
 
 Meu pedido a todos:
 
-**Não comemorar os avanços da tecnologia, sem antes pensarmos em como mitigar seus possíveis efeitos negativos na vida das pessoas.**
+**Não apenas comemorar os avanços da tecnologia, sem antes pensarmos em como mitigar seus possíveis efeitos negativos na vida das pessoas.**
 
 Devemos ficar felizes com os avanços da tecnologia, **mais é lógico que sim**, mas esta felicidade necessita ser consciente e crítica para garantir que todos tenham sua humanidade preservada. Se o efeito for positivo. Vamos todos aplaudir.
 
@@ -10,6 +10,7 @@ Exemplos:
 
 - Uma nova I.A. irá elaborar relatórios ou atender de forma automatizada -> Como treinar as pessoas que efetuavam este trabalho para novas atividades.
 - Um sistema de veículos autônomo irá substituir os motoristas ->  Como treinar as pessoas que efetuavam este trabalho para novas atividades.
+- Você está se aprimorando para entender esta nova tecnologia. Você esta atuando como um **"motor de inovação"** para sua comunidade, apresentando as novas tecnologias, mostrando como utilizar, como aprender, seus benefícios. 
 - etc, etc. (TODO: Pensar mais exemplos)
 
 
@@ -20,8 +21,9 @@ Temos que fazer nossa parte para que todos sejam respeitados.
 
 Lembrando:*É um trabalho em andamento, ideias são sempre bem vindas.*
 
-<font size= ”2”>.1 ONLINE, É. N. **“Uma nova classe de pessoas deve surgir até 2050: a dos inúteis”**. Disponível em: <https://epocanegocios.globo.com/Vida/noticia/2018/01/uma-nova-classe-de-pessoas-deve-surgir-ate-2050-dos-inuteis.html>.</font>
+<font size= ”1”>1 ONLINE, É. N. **“Uma nova classe de pessoas deve surgir até 2050: a dos inúteis”**. Disponível em: <https://epocanegocios.globo.com/Vida/noticia/2018/01/uma-nova-classe-de-pessoas-deve-surgir-ate-2050-dos-inuteis.html>.</font>
 
 ‌
 
 [Para comentários e sugestões, clique aqui](https://github.com/lgrando1/boas-pr-ticas/blob/main/pedido.md)
+
