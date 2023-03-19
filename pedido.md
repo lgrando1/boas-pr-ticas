@@ -20,6 +20,6 @@ Temos que fazer nossa parte para que todos sejam [respeitados<sup>1<sup>](https:
 
 Lembrando:*É um trabalho em andamento, ideias são sempre bem vindas.*
 
-<font size=”1”><sup>1<sup>. ONLINE, É. N. **“Uma nova classe de pessoas deve surgir até 2050: a dos inúteis”**. Disponível em: <https://epocanegocios.globo.com/Vida/noticia/2018/01/uma-nova-classe-de-pessoas-deve-surgir-ate-2050-dos-inuteis.html>.</font>
+<font size=”1”> <sup>1</sup>. ONLINE, É. N. **“Uma nova classe de pessoas deve surgir até 2050: a dos inúteis”**. Disponível em: <https://epocanegocios.globo.com/Vida/noticia/2018/01/uma-nova-classe-de-pessoas-deve-surgir-ate-2050-dos-inuteis.html>.</font>
 
 [Para comentários e sugestões, clique aqui](https://github.com/lgrando1/boas-pr-ticas/blob/main/README.md)
