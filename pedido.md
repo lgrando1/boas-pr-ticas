@@ -13,7 +13,7 @@ Exemplos:
 - etc, etc. (TODO: Pensar mais exemplos)
 
 
-Temos que fazer nossa parte para que todos sejam [respeitados^1](https://epocanegocios.globo.com/Vida/noticia/2018/01/uma-nova-classe-de-pessoas-deve-surgir-ate-2050-dos-inuteis.html).
+Temos que fazer nossa parte para que todos sejam [respeitados<sup>1<sup>](https://epocanegocios.globo.com/Vida/noticia/2018/01/uma-nova-classe-de-pessoas-deve-surgir-ate-2050-dos-inuteis.html).
 
 
 ![Not-By-AI](notai.svg "https://notbyai.fyi/")
