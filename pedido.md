@@ -1,4 +1,4 @@
-A tecnologia é maravilhosa, mas temos que pensar em seus efeitos.
+A tecnologia é maravilhosa, mas temos que pensar em seus efeitos[<sup>1<sup>](https://epocanegocios.globo.com/Vida/noticia/2018/01/uma-nova-classe-de-pessoas-deve-surgir-ate-2050-dos-inuteis.html).
 
 Meu pedido a todos:
 
@@ -13,13 +13,15 @@ Exemplos:
 - etc, etc. (TODO: Pensar mais exemplos)
 
 
-Temos que fazer nossa parte para que todos sejam [respeitados<sup>1<sup>](https://epocanegocios.globo.com/Vida/noticia/2018/01/uma-nova-classe-de-pessoas-deve-surgir-ate-2050-dos-inuteis.html).
+Temos que fazer nossa parte para que todos sejam respeitados.
 
 
 ![Not-By-AI](notai.svg "https://notbyai.fyi/")
 
 Lembrando:*É um trabalho em andamento, ideias são sempre bem vindas.*
 
-<font size=”1”> 1 ONLINE, É. N. **“Uma nova classe de pessoas deve surgir até 2050: a dos inúteis”**. Disponível em: <https://epocanegocios.globo.com/Vida/noticia/2018/01/uma-nova-classe-de-pessoas-deve-surgir-ate-2050-dos-inuteis.html>.</font>
+<font size= ”2”>.1 ONLINE, É. N. **“Uma nova classe de pessoas deve surgir até 2050: a dos inúteis”**. Disponível em: <https://epocanegocios.globo.com/Vida/noticia/2018/01/uma-nova-classe-de-pessoas-deve-surgir-ate-2050-dos-inuteis.html>.</font>
 
-[Para comentários e sugestões, clique aqui](https://github.com/lgrando1/boas-pr-ticas/blob/main/README.md)
+‌
+
+[Para comentários e sugestões, clique aqui](https://github.com/lgrando1/boas-pr-ticas/blob/main/pedido.md)
